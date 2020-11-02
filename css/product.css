@@ -1,0 +1,90 @@
+
+
+.productImages{
+    margin-top: 20%;
+}
+.productImagesSmall{
+    margin-left: 10%;
+}
+.productImagesSmall img{
+    margin-top: 10%;
+}
+.btns{
+    margin-top: 4%;
+}
+.productDetails{
+    margin-top: 10%;
+    text-align: center;
+}
+.productDetails h4{
+    padding: 2%;
+    background-color: #e8e8e8;
+
+}
+.productDetails h3{
+    padding: 2%;
+    background-color: #d9e4dd;
+}
+
+.productDetails h5{
+    padding: 2%;
+    background-color: #e8e8e8;
+}
+.productDetails li{
+    text-align: left;
+}
+
+.descAndSpecs{
+    margin-top: 2%;
+}
+.descImages{
+    border: 1px solid gainsboro;
+}
+.descImages img{
+    margin-left: 10%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.descImages p{
+    padding: 1%;
+}
+.descImages h4{
+    padding: 2%;
+    text-align: center;
+    background-color:#e8e8e8;
+}
+.offers{
+    margin-top: 5%;
+}
+.highlights h6{
+    text-align: center;
+}
+.paymentOptions h6{
+    text-align: center;
+}
+.prodSpecs h4{
+    padding: 2%;
+    text-align: center;
+    background-color:#e8e8e8;
+}
+.ratings{
+    margin-top: 2%;
+}
+.ratings h4{
+    text-align: center;
+    padding: 1%;
+    background-color: #e8e8e8;
+    margin-bottom: 2%;
+}
+.reviews{
+    margin-left: 5%;
+}
+.tb{
+    margin-left: 5%;
+}
+.like{
+    margin-left: 50%;
+}
+.dislike{
+    margin-left: 10%;
+}

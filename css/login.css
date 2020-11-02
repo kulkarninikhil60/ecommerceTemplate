@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: #e3e3e3;
+}
+.con{
+    width: 30%;
+    margin-top: 5%;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+h4{
+    padding: 5%;
+}
+.acc{
+    padding-top: 5%;
+}
+.fp{
+    padding-top: 3%;
+}

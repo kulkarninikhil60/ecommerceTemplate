@@ -1,0 +1,54 @@
+.navbar{
+    background-color: #e8e8e8;
+}
+.brandLogo{
+    margin-left: 5%;
+}
+.bellIcon{
+    margin-left: 2%;
+}
+.userIcon{
+    margin-left: 80%;
+}
+.cartCard{
+    margin-left: 5%;
+}
+.cartInfo{
+    margin-top: 5%;
+}
+.my-cart{
+    text-align: center;
+    background-color: #e8e8e8;
+    padding: 2%;
+}
+.buttonsCart{
+    text-align: end;
+}
+.btns{
+    margin-top: 10%;
+}
+.minus{
+    margin-left: 25%;
+    margin-right: 5%;
+}
+.plus{
+    margin-left: 5%;
+}
+.btns2{
+    margin-top: 5%;
+}
+.priceDetails{
+    margin-left: 5%;
+    width: 30%;
+    border: 1px solid #e8e8e8;
+    height: 40%;
+}
+
+.priceHeading{
+    background-color: #e8e8e8;
+    text-align: center;
+    padding: 3%;
+}
+.priceDetails2{
+    text-align: right;
+}

@@ -1,0 +1,16 @@
+
+h2{
+    background-color: bisque;
+    text-align: center;
+    padding: 2%;
+}
+.card{
+    text-align: center;
+    background-color: lightcyan;
+    margin-top: 10%;
+}
+.showMore{
+    margin-left: 45%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

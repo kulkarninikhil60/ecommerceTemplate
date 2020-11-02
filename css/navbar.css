@@ -1,0 +1,28 @@
+.navbar{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    background-color: #e8e8e8;
+}
+.brandLogo{
+    margin-left: 2%;
+}
+.categories{
+    margin-left: 2%;
+}
+.bellIcon{
+    margin-right: 2%;
+}
+.userIcon{
+    margin-right: 2%;
+}
+.cartIcon{
+    margin-right: 2%;
+}
+.searchForm{
+    margin-right: 5%;
+    width: 50%;
+}
+.searchIcon{
+    margin-left: 2%;
+}

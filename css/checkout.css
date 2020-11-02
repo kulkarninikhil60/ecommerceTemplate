@@ -1,0 +1,38 @@
+.navbar{
+    background-color: #e8e8e8;
+}
+.brandLogo{
+    margin-left: 5%;
+}
+.bellIcon{
+    margin-left: 2%;
+}
+.userIcon{
+    margin-left: 80%;
+}
+.cartCard{
+    margin-left: 5%;
+}
+.address{
+    margin-top: 5%;
+    text-align: center;
+}
+.payments{
+    margin-top: 5%;
+    text-align: center;
+}
+.payments h4{
+    margin-bottom: 5%;
+}
+.paymentForm{
+    margin-top: 10%;
+}
+
+.validateBtn{
+    margin-top: 5%;
+    
+}
+.placeOrderBtn{
+    margin-top: 2%;
+    margin-left: 45%;
+}
